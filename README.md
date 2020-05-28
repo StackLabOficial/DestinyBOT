@@ -12,7 +12,7 @@ Twitter: https://twitter.com/youngzeura
 
 # Suporte
 
- Caso tenha perguntas a fazer sobre esse GitHub, entre no DiscordLab, pois lá você terá um suporte muito bom!
+ Caso tenha perguntas a fazer sobre esse GitHub, entre na StackLab, pois lá você terá um suporte muito bom!
 
 Link: https://discord.gg/rrYhkT5
 
